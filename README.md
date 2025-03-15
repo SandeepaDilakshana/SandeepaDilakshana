@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeepa Dilakshana</h1>
-<h3 align="center">I'm a 24-year-old undergraduate student at the University of Vavuniya, Sri Lanka, passionate about Information Technology and Software Development.</h3>
+<h3 align="center">I'm a 25-year-old undergraduate student at the University of Vavuniya, Sri Lanka, passionate about Information Technology and Software Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepadilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepadilakshana" /> </p>
 
